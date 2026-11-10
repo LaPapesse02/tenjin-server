@@ -1,5 +1,5 @@
 [package]
-name = "tenjin-server-rs"
+name = "tenjin-server"
 version = "0.1.0"
 edition = "2024"
 
